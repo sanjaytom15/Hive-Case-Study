@@ -8,3 +8,5 @@ customer navigated through the website. It also contains other details such as t
 every page, etc. From this, tech companies make use of data ingesting frameworks such as
 Apache Kafka or AWS Kinesis in order to store it in frameworks such as Hadoop. From there,
 machine learning engineers or business analysts use this data to derive valuable insights. 
+To extract data and gather insights from a real-life data set of an e-commerce
+company for analysing and gaining insights about customer behaviour.
